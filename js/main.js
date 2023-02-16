@@ -15,7 +15,7 @@ const precio_8 = 2700.0;
 //Menú de elección de Pizzas para la compra:
 alert(`Elija el número de la pizza que quiere comprar:`);
 let elegirPizza = Number(
-  prompt(`        Pizza:                Precio:
+  prompt(` PIZZA:               PRECIO:
          1-Muzzarella:       $ ${precio_1} 
          2-Roquefort:        $ ${precio_2} 
          3-Jamón:            $ ${precio_3}
